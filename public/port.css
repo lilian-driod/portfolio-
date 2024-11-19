@@ -17,7 +17,7 @@ body {
 }
 
 /* Adjust for screens smaller than 768px */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   body {
     font-size: 16px;
     padding: 10px;
@@ -25,12 +25,12 @@ body {
 }
 
 /* Adjust for screens smaller than 480px */
-@media (max-width: 480px) {
+/* @media (max-width: 480px) {
   body {
     font-size: 14px;
     padding: 5px;
   }
-}
+} */ 
 
 .navbar-logo {
   list-style: none;
