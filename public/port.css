@@ -16,22 +16,6 @@ body {
   background-color: #f4f4f4;
 }
 
-/* Adjust for screens smaller than 768px */
-/* @media (max-width: 768px) {
-  body {
-    font-size: 16px;
-    padding: 10px;
-  }
-}
-
-/* Adjust for screens smaller than 480px */
-/* @media (max-width: 480px) {
-  body {
-    font-size: 14px;
-    padding: 5px;
-  }
-} */ 
-
 .navbar-logo {
   list-style: none;
   font-style: italic;
@@ -246,9 +230,8 @@ footer {
   font-family: "Pacifico", cursive;
   font-style: normal;
 }
-
 /* Animations */
-@keyframes fadeIn {
+/* @keyframes fadeIn {
   0% {
     opacity: 0;
     transform: translateY(20px);
@@ -260,7 +243,7 @@ footer {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .nav-links {
     float: none;
     text-align: center;
@@ -278,4 +261,4 @@ footer {
   .hero-content p {
     font-size: 1rem;
   }
-}
+}  */ 
